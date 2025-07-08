@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24">
+  <!-- Fine drizzle drops -->
+  <circle cx="6" cy="10" r="0.7" fill="#00BFFF"/>
+  <circle cx="9" cy="12" r="0.7" fill="#00BFFF"/>
+  <circle cx="12" cy="10" r="0.7" fill="#00BFFF"/>
+  <circle cx="15" cy="12" r="0.7" fill="#00BFFF"/>
+  <circle cx="18" cy="10" r="0.7" fill="#00BFFF"/>
+  <circle cx="7.5" cy="15" r="0.7" fill="#00BFFF"/>
+  <circle cx="10.5" cy="17" r="0.7" fill="#00BFFF"/>
+  <circle cx="13.5" cy="15" r="0.7" fill="#00BFFF"/>
+  <circle cx="16.5" cy="17" r="0.7" fill="#00BFFF"/>
+</svg>

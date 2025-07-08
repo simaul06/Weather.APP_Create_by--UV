@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 24 24">
+  <!-- White Cloud -->
+  <path d="M6 14a4 4 0 1 1 0-8c.29 0 .58.03.85.08A5.5 5.5 0 0 1 17 10h.5a3.5 3.5 0 1 1 0 7H6z" fill="white"/>
+  <!-- Raindrops (Water Color) -->
+  <path d="M10 19a1 1 0 0 1-1-1v-.01a1 1 0 0 1 2 0V18a1 1 0 0 1-1 1zm4 0a1 1 0 0 1-1-1v-.01a1 1 0 0 1 2 0V18a1 1 0 0 1-1 1zm-2 3a1 1 0 0 1-1-1v-.01a1 1 0 0 1 2 0V21a1 1 0 0 1-1 1z" fill="#2196F3"/>
+</svg>
