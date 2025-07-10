@@ -103,3 +103,18 @@ body {
     margin-top: 10px;
     display: none;
 }
+
+@media (max-width:450px) {
+    .search input {
+        padding: 8px 20px;
+        height: 60px;
+        border-radius: 30px;
+        flex: 1;
+        margin-right: 12px;
+        font-size: 14px;
+    }
+    .search button{
+        width: 50px;
+        height: 50px;
+    }
+}
